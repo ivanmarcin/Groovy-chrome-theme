@@ -1,0 +1,83 @@
+{ "description" : "groovy",
+  "name" : "wavy bluebrown",
+  "theme" : { "colors" : { "bookmark_text" : [ 18,
+              50,
+              114
+            ],
+          "button_background" : [ 0,
+              0,
+              0,
+              0
+            ],
+          "frame" : [ 66,
+              116,
+              201
+            ],
+          "frame_inactive" : [ 161,
+              182,
+              228
+            ],
+          "frame_incognito" : [ 83,
+              106,
+              139
+            ],
+          "frame_incognito_inactive" : [ 126,
+              139,
+              156
+            ],
+          "ntp_background" : [ 255,
+              255,
+              255
+            ],
+          "ntp_text" : [ 0,
+              0,
+              0
+            ],
+          "tab_background_text" : [ 64,
+              64,
+              64
+            ],
+          "tab_text" : [ 0,
+              0,
+              0
+            ],
+          "toolbar" : [ 223,
+              223,
+              223
+            ]
+        },
+      "images" : { "theme_frame" : "images/theme_frame.png",
+          "theme_ntp_background" : "images/theme_ntp_background.png",
+          "theme_toolbar" : "images/theme_toolbar.png"
+        },
+      "properties" : { "ntp_background_alignment" : "bottom",
+          "ntp_background_repeat" : "repeat"
+        },
+      "tints" : { "background_tab" : [ -1,
+              0.5,
+              0.75
+            ],
+          "buttons" : [ -1,
+              -1,
+              -1
+            ],
+          "frame" : [ -1,
+              -1,
+              -1
+            ],
+          "frame_inactive" : [ -1,
+              -1,
+              0.75
+            ],
+          "frame_incognito" : [ -1,
+              0.20000000000000001,
+              0.34999999999999998
+            ],
+          "frame_incognito_inactive" : [ -1,
+              0.29999999999999999,
+              0.59999999999999998
+            ]
+        }
+    },
+  "version" : "1"
+}
