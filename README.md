@@ -1,4 +1,4 @@
 Groovy-chrome-theme
 ===================
 
-just a groovy theme
+Just a custom groovy chrome theme using light brown/blue colors and patterns from colourlovers.
